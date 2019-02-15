@@ -1,10 +1,12 @@
 # Creative Portfolio One-Page WP Theme
-Onliest is a professional WordPress portfolio theme created for agencies or individuals that just want to build their sites very easly. It has a unique design based on beautiful bold typography which will make your website look good, there is also a set of handy features like One-click demo import, built-in translation, setup guide, custom widgets and many more.
 
-##Get started in no-time
-Quick installation, one-click import, and drag-and-drop page builder ensure fast and easy website creation. To be honest creating a site has never been so easy.
+<p>Onliest is a professional WordPress portfolio theme created for agencies or individuals that just want to build their sites very easly. It has a unique design based on beautiful bold typography which will make your website look good, there is also a set of handy features like One-click demo import, built-in translation, setup guide, custom widgets and many more.</p>
 
-##Onliest’s Essential Features
+## Get started in no-time
+
+<p>Quick installation, one-click import, and drag-and-drop page builder ensure fast and easy website creation. To be honest creating a site has never been so easy.</p>
+
+## Onliest’s Essential Features
 __Fully Responsive__ – Made with mobile in mind & sure to make your website look stunning on all device types
 
 __One-click Import__ – Importing the full Onliest demo content, widgets and slides is lighting fast – all it takes is just one mouse click
