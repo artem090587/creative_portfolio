@@ -1,0 +1,2145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-05 21:07+0100\n"
+"PO-Revision-Date: 2018-03-05 21:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "This is 404 Error page"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"We're sorry, the page you have looked for does not exist! Try using the "
+"search box below."
+msgstr ""
+
+#: admin/data-sources.php:24
+msgid "light background / dark text color"
+msgstr ""
+
+#: admin/data-sources.php:28
+msgid "dark background / light text color"
+msgstr ""
+
+#: admin/data-sources.php:39
+msgid "animate.css: bounce"
+msgstr ""
+
+#: admin/data-sources.php:40
+msgid "animate.css: flash"
+msgstr ""
+
+#: admin/data-sources.php:41
+msgid "animate.css: pulse"
+msgstr ""
+
+#: admin/data-sources.php:42
+msgid "animate.css: rubberBand"
+msgstr ""
+
+#: admin/data-sources.php:43
+msgid "animate.css: shake"
+msgstr ""
+
+#: admin/data-sources.php:44
+msgid "animate.css: swing"
+msgstr ""
+
+#: admin/data-sources.php:45
+msgid "animate.css: tada"
+msgstr ""
+
+#: admin/data-sources.php:46
+msgid "animate.css: wobble"
+msgstr ""
+
+#: admin/data-sources.php:47
+msgid "animate.css: bounceIn"
+msgstr ""
+
+#: admin/data-sources.php:48
+msgid "animate.css: bounceInDown"
+msgstr ""
+
+#: admin/data-sources.php:49
+msgid "animate.css: bounceInLeft"
+msgstr ""
+
+#: admin/data-sources.php:50
+msgid "animate.css: bounceInRight"
+msgstr ""
+
+#: admin/data-sources.php:51
+msgid "animate.css: bounceInUp"
+msgstr ""
+
+#: admin/data-sources.php:52
+msgid "animate.css: bounceOut"
+msgstr ""
+
+#: admin/data-sources.php:53
+msgid "animate.css: bounceOutDown"
+msgstr ""
+
+#: admin/data-sources.php:54
+msgid "animate.css: bounceOutLeft"
+msgstr ""
+
+#: admin/data-sources.php:55
+msgid "animate.css: bounceOutRight"
+msgstr ""
+
+#: admin/data-sources.php:56
+msgid "animate.css: bounceOutUp"
+msgstr ""
+
+#: admin/data-sources.php:57
+msgid "animate.css: fadeIn"
+msgstr ""
+
+#: admin/data-sources.php:58
+msgid "animate.css: fadeInDown"
+msgstr ""
+
+#: admin/data-sources.php:59
+msgid "animate.css: fadeInDownBig"
+msgstr ""
+
+#: admin/data-sources.php:60
+msgid "animate.css: fadeInLeft"
+msgstr ""
+
+#: admin/data-sources.php:61
+msgid "animate.css: fadeInLeftBig"
+msgstr ""
+
+#: admin/data-sources.php:62
+msgid "animate.css: fadeInRight"
+msgstr ""
+
+#: admin/data-sources.php:63
+msgid "animate.css: fadeInRightBig"
+msgstr ""
+
+#: admin/data-sources.php:64
+msgid "animate.css: fadeInUp"
+msgstr ""
+
+#: admin/data-sources.php:65
+msgid "animate.css: fadeInUpBig"
+msgstr ""
+
+#: admin/data-sources.php:66
+msgid "animate.css: fadeOut"
+msgstr ""
+
+#: admin/data-sources.php:67
+msgid "animate.css: fadeOutDown"
+msgstr ""
+
+#: admin/data-sources.php:68
+msgid "animate.css: fadeOutDownBig"
+msgstr ""
+
+#: admin/data-sources.php:69
+msgid "animate.css: fadeOutLeft"
+msgstr ""
+
+#: admin/data-sources.php:70
+msgid "animate.css: fadeOutLeftBig"
+msgstr ""
+
+#: admin/data-sources.php:71
+msgid "animate.css: fadeOutRight"
+msgstr ""
+
+#: admin/data-sources.php:72
+msgid "animate.css: fadeOutRightBig"
+msgstr ""
+
+#: admin/data-sources.php:73
+msgid "animate.css: fadeOutUp"
+msgstr ""
+
+#: admin/data-sources.php:74
+msgid "animate.css: fadeOutUpBig"
+msgstr ""
+
+#: admin/data-sources.php:75
+msgid "animate.css: flip"
+msgstr ""
+
+#: admin/data-sources.php:76
+msgid "animate.css: flipInX"
+msgstr ""
+
+#: admin/data-sources.php:77
+msgid "animate.css: flipInY"
+msgstr ""
+
+#: admin/data-sources.php:78
+msgid "animate.css: flipOutX"
+msgstr ""
+
+#: admin/data-sources.php:79
+msgid "animate.css: flipOutY"
+msgstr ""
+
+#: admin/data-sources.php:80
+msgid "animate.css: lightSpeedIn"
+msgstr ""
+
+#: admin/data-sources.php:81
+msgid "animate.css: lightSpeedOut"
+msgstr ""
+
+#: admin/data-sources.php:82
+msgid "animate.css: rotateIn"
+msgstr ""
+
+#: admin/data-sources.php:83
+msgid "animate.css: rotateInDownLeft"
+msgstr ""
+
+#: admin/data-sources.php:84
+msgid "animate.css: rotateInDownRight"
+msgstr ""
+
+#: admin/data-sources.php:85
+msgid "animate.css: rotateInUpLeft"
+msgstr ""
+
+#: admin/data-sources.php:86
+msgid "animate.css: rotateInUpRight"
+msgstr ""
+
+#: admin/data-sources.php:87
+msgid "animate.css: rotateOut"
+msgstr ""
+
+#: admin/data-sources.php:88
+msgid "animate.css: rotateOutDownLeft"
+msgstr ""
+
+#: admin/data-sources.php:89
+msgid "animate.css: rotateOutDownRight"
+msgstr ""
+
+#: admin/data-sources.php:90
+msgid "animate.css: rotateOutUpLeft"
+msgstr ""
+
+#: admin/data-sources.php:91
+msgid "animate.css: rotateOutUpRight"
+msgstr ""
+
+#: admin/data-sources.php:92
+msgid "animate.css: slideInDown"
+msgstr ""
+
+#: admin/data-sources.php:93
+msgid "animate.css: slideInLeft"
+msgstr ""
+
+#: admin/data-sources.php:94
+msgid "animate.css: slideInRight"
+msgstr ""
+
+#: admin/data-sources.php:95
+msgid "animate.css: slideOutLeft"
+msgstr ""
+
+#: admin/data-sources.php:96
+msgid "animate.css: slideOutRight"
+msgstr ""
+
+#: admin/data-sources.php:97
+msgid "animate.css: slideOutUp"
+msgstr ""
+
+#: admin/data-sources.php:98
+msgid "animate.css: hinge"
+msgstr ""
+
+#: admin/data-sources.php:99
+msgid "animate.css: rollIn"
+msgstr ""
+
+#: admin/data-sources.php:100
+msgid "animate.css: rollOut"
+msgstr ""
+
+#: admin/data-sources.php:1230 visual-composer-setup.php:49
+msgid "none"
+msgstr ""
+
+#: admin/data-sources.php:1234 visual-composer-setup.php:50
+msgid "black overlay"
+msgstr ""
+
+#: admin/data-sources.php:1238 visual-composer-setup.php:51
+msgid "dotted overlay"
+msgstr ""
+
+#: admin/data-sources.php:1250
+msgid "default"
+msgstr ""
+
+#: admin/data-sources.php:1254
+msgid "cover"
+msgstr ""
+
+#: admin/data-sources.php:1258
+msgid "contain"
+msgstr ""
+
+#: admin/data-sources.php:1262
+msgid "no repeat"
+msgstr ""
+
+#: comments.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:20
+msgid "Join the discussion and tell us your opinion."
+msgstr ""
+
+#: comments.php:20
+msgid "Be the first to comment on this article."
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "%s Previous"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "Next %s"
+msgstr ""
+
+#: content-single.php:29 loop.php:59
+msgid "Posted by"
+msgstr ""
+
+#: content-single.php:38 loop.php:68
+msgid "0"
+msgstr ""
+
+#: content-single.php:38 loop.php:68
+msgid "1 "
+msgstr ""
+
+#: content-single.php:38 loop.php:68
+msgid "%"
+msgstr ""
+
+#: content-single.php:75 includes/codebean_functions.php:162
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: content-single.php:76 includes/codebean_functions.php:163
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: footer.php:84 includes/theme-customizer.php:252
+msgid "&copy; 2018. Onliest Creative One-Page WordPress Theme"
+msgstr ""
+
+#: includes/acf-fields.php:9
+msgid "Page Options"
+msgstr ""
+
+#: includes/acf-fields.php:13
+msgid "Hide Page Title"
+msgstr ""
+
+#: includes/acf-fields.php:14
+msgid "Show or hide page title."
+msgstr ""
+
+#: includes/acf-fields.php:22
+msgid "Show/Hide Slider?"
+msgstr ""
+
+#: includes/acf-fields.php:23
+msgid ""
+"If you would like to display Revolution Slider on top of this page, check "
+"this!"
+msgstr ""
+
+#: includes/acf-fields.php:24 includes/acf-fields.php:151
+msgid "Yes"
+msgstr ""
+
+#: includes/acf-fields.php:31
+msgid "The Slider"
+msgstr ""
+
+#: includes/acf-fields.php:32
+msgid "Select your slider."
+msgstr ""
+
+#: includes/acf-fields.php:71
+msgid "Portfolio Options"
+msgstr ""
+
+#: includes/acf-fields.php:75
+msgid "Main Settings"
+msgstr ""
+
+#: includes/acf-fields.php:81
+msgid "Portfolio Type"
+msgstr ""
+
+#: includes/acf-fields.php:82
+msgid "Select your portfoli style below."
+msgstr ""
+
+#: includes/acf-fields.php:98
+msgid "Sub Title"
+msgstr ""
+
+#: includes/acf-fields.php:101
+msgid "One line title to describe the item (optional)."
+msgstr ""
+
+#: includes/acf-fields.php:122
+msgid "Item Description Alignment"
+msgstr ""
+
+#: includes/acf-fields.php:125
+msgid "Set the alignment of description block that contains item details."
+msgstr ""
+
+#: includes/acf-fields.php:147
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/acf-fields.php:150
+msgid ""
+"Check this box if you want to show featured image above the post title.."
+msgstr ""
+
+#: includes/acf-fields.php:169
+msgid "Sticky Description"
+msgstr ""
+
+#: includes/acf-fields.php:172
+msgid "Make description container sticky when scrolling down the page."
+msgstr ""
+
+#: includes/acf-fields.php:189 includes/acf-fields.php:206
+msgid "Checklists"
+msgstr ""
+
+#: includes/acf-fields.php:209
+msgid ""
+"Add custom checklists for example the services you have finished, tasks "
+"done, etc."
+msgstr ""
+
+#: includes/acf-fields.php:213
+msgid "Checklist Title"
+msgstr ""
+
+#: includes/acf-fields.php:216
+msgid "Title to describe the checklist items."
+msgstr ""
+
+#: includes/acf-fields.php:227
+msgid "Checklist"
+msgstr ""
+
+#: includes/acf-fields.php:230
+msgid "Enter one task per line, as many as you want."
+msgstr ""
+
+#: includes/acf-fields.php:246
+msgid "Project Link"
+msgstr ""
+
+#: includes/acf-fields.php:312
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: includes/acf-fields.php:329 includes/acf-fields.php:696
+msgid "Gallery"
+msgstr ""
+
+#: includes/acf-fields.php:332 includes/acf-fields.php:699
+msgid "Select all images you want to show for this portfolio item."
+msgstr ""
+
+#: includes/acf-fields.php:679 includes/acf-fields.php:757
+msgid "Add New"
+msgstr ""
+
+#: includes/acf-fields.php:702 includes/acf-fields.php:710
+msgid "Image"
+msgstr ""
+
+#: includes/acf-fields.php:713
+msgid "Image that will be shown"
+msgstr ""
+
+#: includes/acf-fields.php:721 includes/theme-customizer.php:345
+#: visual-composer-setup.php:83
+msgid "Link URL"
+msgstr ""
+
+#: includes/acf-fields.php:724
+msgid "You may include custom link for this slide (optional)"
+msgstr ""
+
+#: includes/acf-fields.php:735
+msgid "Link Target"
+msgstr ""
+
+#: includes/acf-fields.php:738
+msgid "Set the link target when user clicks on it"
+msgstr ""
+
+#: includes/class-widget-onliest-about.php:8
+msgid "Onliest: About"
+msgstr ""
+
+#: includes/class-widget-onliest-about.php:9
+msgid "Display biography with image and your sign."
+msgstr ""
+
+#: includes/class-widget-onliest-about.php:64
+#: includes/class-widget-onliest-facebook-like-box.php:51
+#: includes/class-widget-onliest-recent-posts.php:52
+msgid "Title:"
+msgstr ""
+
+#: includes/class-widget-onliest-about.php:69
+msgid "Image URL:"
+msgstr ""
+
+#: includes/class-widget-onliest-about.php:73
+msgid "Make image a circle:"
+msgstr ""
+
+#: includes/class-widget-onliest-about.php:79
+msgid "Subtitle:"
+msgstr ""
+
+#: includes/class-widget-onliest-about.php:83
+msgid "Short Biography:"
+msgstr ""
+
+#: includes/class-widget-onliest-about.php:87
+msgid "Autograph Image URL:"
+msgstr ""
+
+#: includes/class-widget-onliest-facebook-like-box.php:8
+msgid "Onliest: Facebook Like Box"
+msgstr ""
+
+#: includes/class-widget-onliest-facebook-like-box.php:9
+msgid "Facebook Like Box"
+msgstr ""
+
+#: includes/class-widget-onliest-facebook-like-box.php:55
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: includes/class-widget-onliest-facebook-like-box.php:59
+msgid "Height in px:"
+msgstr ""
+
+#: includes/class-widget-onliest-facebook-like-box.php:65
+msgid "Show Faces?"
+msgstr ""
+
+#: includes/class-widget-onliest-facebook-like-box.php:71
+msgid "Show Posts?"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:7
+msgid "Displays the site contact info."
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:12
+msgid "Onliest: Contact Info"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:20
+msgid "Contact Info"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:24 visual-composer-setup.php:186
+#: visual-composer-setup.php:449 visual-composer-setup.php:732
+msgid "Title"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:29
+msgid "Phone Icon:"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:34
+msgid "Phone Text:"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:39
+msgid "Email Icon:"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:44
+msgid "Email Text:"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:49
+msgid "Address Icon:"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:54
+msgid "Address Text:"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:59
+msgid "Website Icon:"
+msgstr ""
+
+#: includes/class-widget-onliest-icon-list.php:64
+msgid "Website Text:"
+msgstr ""
+
+#: includes/class-widget-onliest-recent-posts.php:8
+msgid "Onliest: Recent Posts"
+msgstr ""
+
+#: includes/class-widget-onliest-recent-posts.php:9
+msgid "Recent Posts list with thumbnail images"
+msgstr ""
+
+#: includes/class-widget-onliest-recent-posts.php:56
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/class-widget-onliest-recent-posts.php:62
+msgid "Display post date?"
+msgstr ""
+
+#: includes/codebean_actions.php:144
+msgid "Sidebar"
+msgstr ""
+
+#: includes/codebean_actions.php:145
+msgid "Main sidebar widgets."
+msgstr ""
+
+#: includes/codebean_actions.php:155
+msgid "Footer 1"
+msgstr ""
+
+#: includes/codebean_actions.php:156
+msgid "Footer column 1."
+msgstr ""
+
+#: includes/codebean_actions.php:166
+msgid "Footer 2"
+msgstr ""
+
+#: includes/codebean_actions.php:167
+msgid "Footer column 2."
+msgstr ""
+
+#: includes/codebean_actions.php:177
+msgid "Footer 3"
+msgstr ""
+
+#: includes/codebean_actions.php:178
+msgid "Footer column 3."
+msgstr ""
+
+#: includes/codebean_actions.php:188
+msgid "Footer 4"
+msgstr ""
+
+#: includes/codebean_actions.php:189
+msgid "Footer column 4."
+msgstr ""
+
+#: includes/codebean_actions.php:282
+msgid "Search Results "
+msgstr ""
+
+#: includes/codebean_actions.php:369
+msgid "Previous Project"
+msgstr ""
+
+#: includes/codebean_actions.php:373
+msgid "Next Project"
+msgstr ""
+
+#: includes/codebean_actions.php:383
+msgid "Older posts"
+msgstr ""
+
+#: includes/codebean_actions.php:389
+msgid "Newer posts"
+msgstr ""
+
+#: includes/codebean_actions.php:479
+msgid "Edit"
+msgstr ""
+
+#: includes/codebean_actions.php:504 visual-composer-setup.php:442
+#: visual-composer-setup.php:535
+msgid "Name"
+msgstr ""
+
+#: includes/codebean_actions.php:509
+msgid "Email Address"
+msgstr ""
+
+#: includes/codebean_actions.php:514
+msgid "Website"
+msgstr ""
+
+#: includes/codebean_actions.php:519
+msgid "Enter your comment here..."
+msgstr ""
+
+#: includes/codebean_actions.php:522
+msgid "Your email address will not be published."
+msgstr ""
+
+#: includes/codebean_actions.php:527
+msgid "Leave a Comment"
+msgstr ""
+
+#: includes/codebean_actions.php:528
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/codebean_actions.php:529
+msgid "Cancel reply"
+msgstr ""
+
+#: includes/codebean_actions.php:530
+msgid "Leave a Reply"
+msgstr ""
+
+#: includes/codebean_filter.php:20
+msgid "Header Navigation"
+msgstr ""
+
+#: includes/codebean_filter.php:32
+msgid "This is a protected area. Please enter your password:"
+msgstr ""
+
+#: includes/codebean_filter.php:33
+msgid "Enter Password"
+msgstr ""
+
+#: includes/codebean_filter.php:33
+msgid "Submit Password"
+msgstr ""
+
+#: includes/codebean_filter.php:67 loop.php:83
+msgid "Continue Reading"
+msgstr ""
+
+#: includes/codebean_functions.php:76
+msgid "&larr; First"
+msgstr ""
+
+#: includes/codebean_functions.php:80
+msgid "Previous"
+msgstr ""
+
+#: includes/codebean_functions.php:114
+msgid "Next"
+msgstr ""
+
+#: includes/codebean_functions.php:118
+msgid "Last &rarr;"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:393
+#: includes/tgmpa/class-tgm-plugin-activation.php:912
+#: includes/tgmpa/class-tgm-plugin-activation.php:2618
+#: includes/tgmpa/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:394
+#: includes/tgmpa/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:395
+#: includes/tgmpa/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:1019
+#: includes/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3594
+#: includes/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3594
+#: includes/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgmpa/config.php:26
+msgid "Visual Composer"
+msgstr ""
+
+#: includes/tgmpa/config.php:39
+msgid "Revolution Slider"
+msgstr ""
+
+#: includes/tgmpa/config.php:46
+msgid "Onliest Plugin"
+msgstr ""
+
+#: includes/tgmpa/config.php:53
+msgid "Kirki"
+msgstr ""
+
+#: includes/tgmpa/config.php:60
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/tgmpa/config.php:66
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: includes/tgmpa/config.php:72
+msgid "ACF Repeater"
+msgstr ""
+
+#: includes/tgmpa/config.php:79
+msgid "ACF Flexible Content"
+msgstr ""
+
+#: includes/tgmpa/config.php:86
+msgid "ACF Gallery"
+msgstr ""
+
+#: includes/theme-customizer.php:13
+msgid "General"
+msgstr ""
+
+#: includes/theme-customizer.php:14
+msgid "General options for favicon, layout and color accent choices."
+msgstr ""
+
+#: includes/theme-customizer.php:21
+msgid "Styling"
+msgstr ""
+
+#: includes/theme-customizer.php:22
+msgid "Options for colors and typography."
+msgstr ""
+
+#: includes/theme-customizer.php:31
+msgid "Custom Logo"
+msgstr ""
+
+#: includes/theme-customizer.php:37
+msgid "Preloader (Page Transition)"
+msgstr ""
+
+#: includes/theme-customizer.php:43
+msgid "Google Map API Key"
+msgstr ""
+
+#: includes/theme-customizer.php:49
+msgid "Go to Top"
+msgstr ""
+
+#: includes/theme-customizer.php:55
+msgid "Blog Settings"
+msgstr ""
+
+#: includes/theme-customizer.php:61
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/theme-customizer.php:67
+msgid "Page Title"
+msgstr ""
+
+#: includes/theme-customizer.php:73 includes/theme-customizer.php:307
+msgid "Social Networks"
+msgstr ""
+
+#: includes/theme-customizer.php:79
+msgid "Colors"
+msgstr ""
+
+#: includes/theme-customizer.php:85
+msgid "Typography"
+msgstr ""
+
+#: includes/theme-customizer.php:100
+msgid "Click the button below to upload a custom logo."
+msgstr ""
+
+#: includes/theme-customizer.php:101
+msgid "Upload a logo with prefered sizes of 394x74."
+msgstr ""
+
+#: includes/theme-customizer.php:111
+msgid "Page Preloader"
+msgstr ""
+
+#: includes/theme-customizer.php:112
+msgid "Enable or disable preloader."
+msgstr ""
+
+#: includes/theme-customizer.php:116 includes/theme-customizer.php:140
+msgid "Enable"
+msgstr ""
+
+#: includes/theme-customizer.php:117 includes/theme-customizer.php:141
+msgid "Disable"
+msgstr ""
+
+#: includes/theme-customizer.php:125
+msgid "Google MAP API Key (Required)"
+msgstr ""
+
+#: includes/theme-customizer.php:126
+msgid "Get your API key and then paste the generated API key here."
+msgstr ""
+
+#: includes/theme-customizer.php:135
+msgid "Go Top"
+msgstr ""
+
+#: includes/theme-customizer.php:136
+msgid "Enable or disable go to top button."
+msgstr ""
+
+#: includes/theme-customizer.php:159
+msgid "Show Blog Title"
+msgstr ""
+
+#: includes/theme-customizer.php:160
+msgid "Show page title on blog page."
+msgstr ""
+
+#: includes/theme-customizer.php:169
+msgid "Blog Page Title"
+msgstr ""
+
+#: includes/theme-customizer.php:180
+msgid "Related Posts"
+msgstr ""
+
+#: includes/theme-customizer.php:181
+msgid "Show or hide Related Posts on Single Post"
+msgstr ""
+
+#: includes/theme-customizer.php:190
+msgid "Enable Post Share"
+msgstr ""
+
+#: includes/theme-customizer.php:191
+msgid "Show or hide social networks to share the stories."
+msgstr ""
+
+#: includes/theme-customizer.php:209
+msgid "Footer Widgets"
+msgstr ""
+
+#: includes/theme-customizer.php:210 includes/theme-customizer.php:269
+msgid "Show or hide footer widgets at the bottom of the site."
+msgstr ""
+
+#: includes/theme-customizer.php:218
+msgid "Footer Widgets Columns"
+msgstr ""
+
+#: includes/theme-customizer.php:219
+msgid "Choose your prefered columns for footer widgets columns"
+msgstr ""
+
+#: includes/theme-customizer.php:241
+msgid "Social Icons"
+msgstr ""
+
+#: includes/theme-customizer.php:242
+msgid "Show or hide social icons on footer"
+msgstr ""
+
+#: includes/theme-customizer.php:250
+msgid "Bottom Copyright Text"
+msgstr ""
+
+#: includes/theme-customizer.php:268
+msgid "Background Image"
+msgstr ""
+
+#: includes/theme-customizer.php:299 visual-composer-setup.php:562
+msgid "Social Media"
+msgstr ""
+
+#: includes/theme-customizer.php:302
+msgid "Social Icon"
+msgstr ""
+
+#: includes/theme-customizer.php:364
+msgid "Accent Color"
+msgstr ""
+
+#: includes/theme-customizer.php:365
+msgid "This is a color control - without alpha channel."
+msgstr ""
+
+#: includes/theme-customizer.php:374
+msgid "Main Menu"
+msgstr ""
+
+#: includes/theme-customizer.php:399
+msgid "Sub Menu"
+msgstr ""
+
+#: includes/theme-customizer.php:424
+msgid "Body"
+msgstr ""
+
+#: includes/theme-customizer.php:450
+msgid "Headings H1 - H6"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "%s result found for &quot;%s&quot;"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "No search results for &quot;%s&quot;"
+msgstr ""
+
+#: search.php:50
+msgid "&laquo; Newer Posts"
+msgstr ""
+
+#: search.php:51
+msgid "Older Posts &raquo;"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search site ..."
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: single.php:50
+msgid "You Might Also Like"
+msgstr ""
+
+#: tpls/not-found.php:3
+msgid "Sorry, no posts found for your query."
+msgstr ""
+
+#: vc_templates/vc_onliest_portfolio_grid_old.php:83
+msgid "Show All"
+msgstr ""
+
+#: vc_templates/vc_onliest_portfolio_grid_old.php:141
+msgid "Load More"
+msgstr ""
+
+#: vc_templates/vc_onliest_portfolio_masonry.php:61
+msgid "All"
+msgstr ""
+
+#: vc_templates/vc_onliest_team_member_block.php:43
+msgid "Find me on"
+msgstr ""
+
+#: visual-composer-setup.php:15
+msgid "CSS Animation"
+msgstr ""
+
+#: visual-composer-setup.php:19
+msgid "No"
+msgstr ""
+
+#: visual-composer-setup.php:20
+msgid "Top to bottom"
+msgstr ""
+
+#: visual-composer-setup.php:21
+msgid "Bottom to top"
+msgstr ""
+
+#: visual-composer-setup.php:22
+msgid "Left to right"
+msgstr ""
+
+#: visual-composer-setup.php:23
+msgid "Right to left"
+msgstr ""
+
+#: visual-composer-setup.php:24
+msgid "Appear from center"
+msgstr ""
+
+#: visual-composer-setup.php:26
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: visual-composer-setup.php:34
+msgid "Icon"
+msgstr ""
+
+#: visual-composer-setup.php:37
+msgid "No Icon"
+msgstr ""
+
+#: visual-composer-setup.php:46
+msgid "Background Overlay"
+msgstr ""
+
+#: visual-composer-setup.php:57
+msgid "Text Color"
+msgstr ""
+
+#: visual-composer-setup.php:66
+msgid "Button"
+msgstr ""
+
+#: visual-composer-setup.php:70 visual-composer-setup.php:136
+#: visual-composer-setup.php:180 visual-composer-setup.php:207
+#: visual-composer-setup.php:260 visual-composer-setup.php:308
+#: visual-composer-setup.php:437 visual-composer-setup.php:490
+#: visual-composer-setup.php:529 visual-composer-setup.php:584
+#: visual-composer-setup.php:635 visual-composer-setup.php:728
+#: visual-composer-setup.php:790 visual-composer-setup.php:836
+#: visual-composer-setup.php:877
+msgid "Codebean"
+msgstr ""
+
+#: visual-composer-setup.php:71
+msgid "Show button with different styles"
+msgstr ""
+
+#: visual-composer-setup.php:76 visual-composer-setup.php:470
+msgid "Text"
+msgstr ""
+
+#: visual-composer-setup.php:78
+msgid "Anchor Text"
+msgstr ""
+
+#: visual-composer-setup.php:91 visual-composer-setup.php:227
+#: visual-composer-setup.php:640
+msgid "Style"
+msgstr ""
+
+#: visual-composer-setup.php:95
+msgid "black"
+msgstr ""
+
+#: visual-composer-setup.php:96
+msgid "bordered"
+msgstr ""
+
+#: visual-composer-setup.php:97
+msgid "white"
+msgstr ""
+
+#: visual-composer-setup.php:98
+msgid "primary"
+msgstr ""
+
+#: visual-composer-setup.php:99
+msgid "success"
+msgstr ""
+
+#: visual-composer-setup.php:100
+msgid "info"
+msgstr ""
+
+#: visual-composer-setup.php:101
+msgid "warning"
+msgstr ""
+
+#: visual-composer-setup.php:102
+msgid "danger"
+msgstr ""
+
+#: visual-composer-setup.php:103
+msgid "link"
+msgstr ""
+
+#: visual-composer-setup.php:109
+msgid "Size"
+msgstr ""
+
+#: visual-composer-setup.php:112
+msgid "normal"
+msgstr ""
+
+#: visual-composer-setup.php:113
+msgid "large"
+msgstr ""
+
+#: visual-composer-setup.php:114
+msgid "small"
+msgstr ""
+
+#: visual-composer-setup.php:115
+msgid "xlarge"
+msgstr ""
+
+#: visual-composer-setup.php:121 visual-composer-setup.php:165
+#: visual-composer-setup.php:192 visual-composer-setup.php:245
+#: visual-composer-setup.php:292 visual-composer-setup.php:423
+#: visual-composer-setup.php:475 visual-composer-setup.php:514
+#: visual-composer-setup.php:570 visual-composer-setup.php:616
+#: visual-composer-setup.php:957
+msgid "Extra class name"
+msgstr ""
+
+#: visual-composer-setup.php:123 visual-composer-setup.php:167
+#: visual-composer-setup.php:194 visual-composer-setup.php:247
+#: visual-composer-setup.php:294 visual-composer-setup.php:425
+#: visual-composer-setup.php:477 visual-composer-setup.php:516
+#: visual-composer-setup.php:572 visual-composer-setup.php:618
+#: visual-composer-setup.php:959
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: visual-composer-setup.php:132
+msgid "Section Heading"
+msgstr ""
+
+#: visual-composer-setup.php:137
+msgid "Show section heading and subtitle."
+msgstr ""
+
+#: visual-composer-setup.php:142
+msgid "Large Heading"
+msgstr ""
+
+#: visual-composer-setup.php:148
+msgid "Small Heading"
+msgstr ""
+
+#: visual-composer-setup.php:154
+msgid "Text Alignment"
+msgstr ""
+
+#: visual-composer-setup.php:157
+msgid "center"
+msgstr ""
+
+#: visual-composer-setup.php:158
+msgid "left"
+msgstr ""
+
+#: visual-composer-setup.php:159
+msgid "right"
+msgstr ""
+
+#: visual-composer-setup.php:176
+msgid "Fancy Title"
+msgstr ""
+
+#: visual-composer-setup.php:181
+msgid "User fancy title for section title too."
+msgstr ""
+
+#: visual-composer-setup.php:203
+msgid "Icon Box"
+msgstr ""
+
+#: visual-composer-setup.php:208
+msgid "Icon boxes as service blocks"
+msgstr ""
+
+#: visual-composer-setup.php:213
+msgid "Heading Text"
+msgstr ""
+
+#: visual-composer-setup.php:215
+msgid "Service Heading"
+msgstr ""
+
+#: visual-composer-setup.php:220
+msgid "Subheading Text"
+msgstr ""
+
+#: visual-composer-setup.php:222
+msgid "Service Subheading"
+msgstr ""
+
+#: visual-composer-setup.php:238 visual-composer-setup.php:555
+msgid "Content"
+msgstr ""
+
+#: visual-composer-setup.php:240
+msgid ""
+"I am a service block. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: visual-composer-setup.php:256
+msgid "Counter"
+msgstr ""
+
+#: visual-composer-setup.php:261
+msgid "Fun facts with counter e.g your achievements"
+msgstr ""
+
+#: visual-composer-setup.php:266
+msgid "Subject"
+msgstr ""
+
+#: visual-composer-setup.php:272
+msgid "Start"
+msgstr ""
+
+#: visual-composer-setup.php:279
+msgid "End (Value)"
+msgstr ""
+
+#: visual-composer-setup.php:286
+msgid "Suffix"
+msgstr ""
+
+#: visual-composer-setup.php:288
+msgid "String after number"
+msgstr ""
+
+#: visual-composer-setup.php:303
+msgid "Testimonials"
+msgstr ""
+
+#: visual-composer-setup.php:309
+msgid "User testimonials slider or grid"
+msgstr ""
+
+#: visual-composer-setup.php:313 visual-composer-setup.php:651
+msgid "Layout"
+msgstr ""
+
+#: visual-composer-setup.php:316
+msgid "Slider"
+msgstr ""
+
+#: visual-composer-setup.php:317
+msgid "Grid"
+msgstr ""
+
+#: visual-composer-setup.php:322
+msgid "Align"
+msgstr ""
+
+#: visual-composer-setup.php:325
+msgid "Center"
+msgstr ""
+
+#: visual-composer-setup.php:326
+msgid "Left"
+msgstr ""
+
+#: visual-composer-setup.php:327
+msgid "Right"
+msgstr ""
+
+#: visual-composer-setup.php:332 visual-composer-setup.php:600
+#: visual-composer-setup.php:663
+msgid "Columns"
+msgstr ""
+
+#: visual-composer-setup.php:344 visual-composer-setup.php:895
+msgid "Slides per view"
+msgstr ""
+
+#: visual-composer-setup.php:353 visual-composer-setup.php:900
+msgid ""
+"Set numbers of slides you want to display at the same time on slider's "
+"container for carousel mode."
+msgstr ""
+
+#: visual-composer-setup.php:357
+msgid "Slider autoplay"
+msgstr ""
+
+#: visual-composer-setup.php:359
+msgid "Enables autoplay mode."
+msgstr ""
+
+#: visual-composer-setup.php:360 visual-composer-setup.php:371
+#: visual-composer-setup.php:393 visual-composer-setup.php:404
+#: visual-composer-setup.php:415 visual-composer-setup.php:907
+#: visual-composer-setup.php:914 visual-composer-setup.php:921
+#: visual-composer-setup.php:948
+msgid "Yes, please"
+msgstr ""
+
+#: visual-composer-setup.php:368
+msgid "Autoheight"
+msgstr ""
+
+#: visual-composer-setup.php:370
+msgid "Enables autoheight mode."
+msgstr ""
+
+#: visual-composer-setup.php:379
+msgid "Slider speed"
+msgstr ""
+
+#: visual-composer-setup.php:382
+msgid "Duration of animation between slides (in ms)"
+msgstr ""
+
+#: visual-composer-setup.php:390 visual-composer-setup.php:904
+msgid "Show pagination control"
+msgstr ""
+
+#: visual-composer-setup.php:392 visual-composer-setup.php:906
+msgid "If \"YES\" pagination control will be added"
+msgstr ""
+
+#: visual-composer-setup.php:401 visual-composer-setup.php:911
+msgid "Show prev/next buttons"
+msgstr ""
+
+#: visual-composer-setup.php:403 visual-composer-setup.php:913
+msgid "If \"YES\" prev/next control will be added"
+msgstr ""
+
+#: visual-composer-setup.php:412 visual-composer-setup.php:918
+msgid "Slider loop"
+msgstr ""
+
+#: visual-composer-setup.php:414 visual-composer-setup.php:920
+msgid "Enables loop mode."
+msgstr ""
+
+#: visual-composer-setup.php:432
+msgid "Testimonial"
+msgstr ""
+
+#: visual-composer-setup.php:438
+msgid "User testimonial"
+msgstr ""
+
+#: visual-composer-setup.php:445
+msgid "User name"
+msgstr ""
+
+#: visual-composer-setup.php:452
+msgid "User title"
+msgstr ""
+
+#: visual-composer-setup.php:456
+msgid "User Avatar"
+msgstr ""
+
+#: visual-composer-setup.php:459
+msgid "Select image from media library."
+msgstr ""
+
+#: visual-composer-setup.php:463 visual-composer-setup.php:889
+msgid "Image size"
+msgstr ""
+
+#: visual-composer-setup.php:465 visual-composer-setup.php:891
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: visual-composer-setup.php:486
+msgid "Progress Bar"
+msgstr ""
+
+#: visual-composer-setup.php:491
+msgid "Show your skills with animated progress bars."
+msgstr ""
+
+#: visual-composer-setup.php:496
+msgid "Caption"
+msgstr ""
+
+#: visual-composer-setup.php:502
+msgid "Value"
+msgstr ""
+
+#: visual-composer-setup.php:504
+msgid "Valid value from 0 to 100, and without \"%\""
+msgstr ""
+
+#: visual-composer-setup.php:509
+msgid "Custom Color"
+msgstr ""
+
+#: visual-composer-setup.php:525
+msgid "Team Member Block"
+msgstr ""
+
+#: visual-composer-setup.php:530
+msgid "Display information of some person"
+msgstr ""
+
+#: visual-composer-setup.php:537
+msgid "John Doe"
+msgstr ""
+
+#: visual-composer-setup.php:542
+msgid "Photo"
+msgstr ""
+
+#: visual-composer-setup.php:544
+msgid "Minimum size recommended: 600px width image"
+msgstr ""
+
+#: visual-composer-setup.php:549
+msgid "Position"
+msgstr ""
+
+#: visual-composer-setup.php:557
+msgid ""
+"John Doe is a designer who works remotely from Birmingham, AL. A graduate of "
+"Ole Miss, where he played."
+msgstr ""
+
+#: visual-composer-setup.php:563
+msgid ""
+"Line break separated. See all available social media types <a href=\"http://"
+"fontawesome.io/icons/#brand\">here</a>. Input format is social_media_type: "
+"your_url. For example, facebook: http://facebook.com."
+msgstr ""
+
+#: visual-composer-setup.php:565
+msgid ""
+"facebook : http://facebook.com\n"
+"twitter : http://twitter.com\n"
+"linkedin : http://linkedin.com"
+msgstr ""
+
+#: visual-composer-setup.php:581
+msgid "Blog Masonry"
+msgstr ""
+
+#: visual-composer-setup.php:585
+msgid "Display blog on masonry mode"
+msgstr ""
+
+#: visual-composer-setup.php:589
+msgid "Blog Query"
+msgstr ""
+
+#: visual-composer-setup.php:605
+msgid "Set number of columns to separate blog posts."
+msgstr ""
+
+#: visual-composer-setup.php:609
+msgid "More Link"
+msgstr ""
+
+#: visual-composer-setup.php:612
+msgid "This will show \"More\" button in the end of blog items."
+msgstr ""
+
+#: visual-composer-setup.php:624 visual-composer-setup.php:776
+msgid "Design options"
+msgstr ""
+
+#: visual-composer-setup.php:633
+msgid "Portfolio Masonry"
+msgstr ""
+
+#: visual-composer-setup.php:636
+msgid "Display portfolio in masonry style"
+msgstr ""
+
+#: visual-composer-setup.php:644
+msgid "Style 1"
+msgstr ""
+
+#: visual-composer-setup.php:645
+msgid "Style 2"
+msgstr ""
+
+#: visual-composer-setup.php:647
+msgid "This changes the style of the portfolios"
+msgstr ""
+
+#: visual-composer-setup.php:654
+msgid "Masonry Layout 1"
+msgstr ""
+
+#: visual-composer-setup.php:655
+msgid "Masonry Layout 2"
+msgstr ""
+
+#: visual-composer-setup.php:656
+msgid "Masonry Layout 3"
+msgstr ""
+
+#: visual-composer-setup.php:658
+msgid "This changes the layout of the masonry for Style 1"
+msgstr ""
+
+#: visual-composer-setup.php:666
+msgid "Two Columns"
+msgstr ""
+
+#: visual-composer-setup.php:667
+msgid "Three Columns"
+msgstr ""
+
+#: visual-composer-setup.php:668
+msgid "Four Columns"
+msgstr ""
+
+#: visual-composer-setup.php:670
+msgid "This changes the column counts of the Style 2"
+msgstr ""
+
+#: visual-composer-setup.php:675
+msgid "Portfolio Source"
+msgstr ""
+
+#: visual-composer-setup.php:678
+msgid "By ID (default)"
+msgstr ""
+
+#: visual-composer-setup.php:679
+msgid "Advanced"
+msgstr ""
+
+#: visual-composer-setup.php:684
+msgid "Advanced Portfolio Source"
+msgstr ""
+
+#: visual-composer-setup.php:686
+msgid ""
+"Set your portfolio source here. Make sure you select portfolio post type"
+msgstr ""
+
+#: visual-composer-setup.php:691
+msgid "Portfolio IDs"
+msgstr ""
+
+#: visual-composer-setup.php:694
+msgid "Enter the portfolio IDs you would like to display seperated by comma"
+msgstr ""
+
+#: visual-composer-setup.php:699
+msgid "Hover Style"
+msgstr ""
+
+#: visual-composer-setup.php:702
+msgid "Default"
+msgstr ""
+
+#: visual-composer-setup.php:703
+msgid "With Border"
+msgstr ""
+
+#: visual-composer-setup.php:704
+msgid "Push Top"
+msgstr ""
+
+#: visual-composer-setup.php:705
+msgid "Push Bottom"
+msgstr ""
+
+#: visual-composer-setup.php:707
+msgid ""
+"You can change the hover styles here. Hover styles are dependent on which "
+"portfolio styles you are using so they might not work for every style."
+msgstr ""
+
+#: visual-composer-setup.php:711
+msgid "Add Filters?"
+msgstr ""
+
+#: visual-composer-setup.php:716
+msgid "This will display filters on the top"
+msgstr ""
+
+#: visual-composer-setup.php:725
+msgid "Google Map"
+msgstr ""
+
+#: visual-composer-setup.php:738
+msgid "Map Latitude"
+msgstr ""
+
+#: visual-composer-setup.php:739
+msgid ""
+"Go to https://www.google.com/maps and copy the latitude info from the "
+"browser url field and paste it here."
+msgstr ""
+
+#: visual-composer-setup.php:746
+msgid "Map Logintude"
+msgstr ""
+
+#: visual-composer-setup.php:747
+msgid ""
+"Go to https://www.google.com/maps and copy the longitude info from the "
+"browser url field and paste it here."
+msgstr ""
+
+#: visual-composer-setup.php:754
+msgid "Custom Marker Icon URL"
+msgstr ""
+
+#: visual-composer-setup.php:755
+msgid ""
+"Enter your custom map marker icon url. Leave it empty to show the default "
+"icon."
+msgstr ""
+
+#: visual-composer-setup.php:760
+msgid "Map Zoom"
+msgstr ""
+
+#: visual-composer-setup.php:767
+msgid "Map Height"
+msgstr ""
+
+#: visual-composer-setup.php:774
+msgid "Css"
+msgstr ""
+
+#: visual-composer-setup.php:785
+msgid "Icon List"
+msgstr ""
+
+#: visual-composer-setup.php:791
+msgid "Insert Icon List"
+msgstr ""
+
+#: visual-composer-setup.php:796
+msgid "Icon Color"
+msgstr ""
+
+#: visual-composer-setup.php:806
+msgid "Icon Size"
+msgstr ""
+
+#: visual-composer-setup.php:814
+msgid "Select icon size to display on your list."
+msgstr ""
+
+#: visual-composer-setup.php:818
+msgid "Icon Style"
+msgstr ""
+
+#: visual-composer-setup.php:825
+msgid ""
+"Please select the direction you would like your list items to display in"
+msgstr ""
+
+#: visual-composer-setup.php:832
+msgid "Icon List Item"
+msgstr ""
+
+#: visual-composer-setup.php:837
+msgid "Add icon list item."
+msgstr ""
+
+#: visual-composer-setup.php:841
+msgid "List Icon Type"
+msgstr ""
+
+#: visual-composer-setup.php:849
+msgid "Select icon type you like to show."
+msgstr ""
+
+#: visual-composer-setup.php:855
+msgid "Header"
+msgstr ""
+
+#: visual-composer-setup.php:857
+msgid "Enter the header desired for your icon list element"
+msgstr ""
+
+#: visual-composer-setup.php:862
+msgid "Text Content"
+msgstr ""
+
+#: visual-composer-setup.php:864
+msgid "Enter the text content desired for your icon list element"
+msgstr ""
+
+#: visual-composer-setup.php:874
+msgid "Images gallery"
+msgstr ""
+
+#: visual-composer-setup.php:878
+msgid "Images carousel"
+msgstr ""
+
+#: visual-composer-setup.php:882
+msgid "Images"
+msgstr ""
+
+#: visual-composer-setup.php:885
+msgid "Select images from media library."
+msgstr ""
+
+#: visual-composer-setup.php:925
+msgid "On click action"
+msgstr ""
+
+#: visual-composer-setup.php:929
+msgid "Custom Link"
+msgstr ""
+
+#: visual-composer-setup.php:930
+msgid "None"
+msgstr ""
+
+#: visual-composer-setup.php:935
+msgid "Custom links"
+msgstr ""
+
+#: visual-composer-setup.php:937
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: visual-composer-setup.php:945
+msgid "Open in new tab"
+msgstr ""

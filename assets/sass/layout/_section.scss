@@ -1,0 +1,140 @@
+.page-wrap {
+    position: relative;
+}
+
+.cdb-vc-section,
+section {
+    position: relative;
+}
+
+.cdb-vc-section .wpb_wrapper > *:last-child {
+    margin-bottom: 0;
+}
+
+.cdb-vc-section > .wpb_column > .vc_column-inner {
+    padding-top: 0 !important;
+}
+
+.section .section-anchor {
+    position: absolute;
+}
+
+.section-top-anchor {
+    top: 0;
+}
+
+.section-bottom-anchor {
+    bottom: 0;
+}
+
+.desktop-device .wpb_animate_css {
+	animation-play-state: paused;
+	-webkit-animation-play-state: paused;
+}
+.desktop-device .wpb_animate_css.wpb_start_animation {
+	animation-play-state: running;
+	-webkit-animation-play-state: running;
+}
+.desktop-device .wpb_disable_animation {
+	animation: none !important;
+	-webkit-animation: none !important;
+}
+
+// Section Background Overlay
+.section {
+    position: relative;
+    z-index: 10;
+
+    .section-background {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        backface-visibility: visible;
+        
+        &.black-overlay {
+            background-color: rgba(23,23,23,0.85);
+        }
+    }
+
+    .gmap {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+    }
+}
+
+
+// Section Title
+.wpb_patch_section_heading {
+
+    .section-title {
+        margin-top: 0;
+        font-size: 36px;
+
+        &:after {
+            content: '';
+            width: 100px;
+            height: 2px;
+            margin-top: 16px;
+            margin-bottom: 16px;
+            display: block;
+        }
+    }
+
+    &.text-center {
+        .section-title:after {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+
+    &.text-right {
+        .section-title:after {
+            margin-left: auto;
+        }
+    }
+
+    .section-tagline {
+        font-size: 17px;
+        // font-weight: 300;
+        opacity: 0.7;
+        // text-transform: capitalize;
+        // text-transform: uppercase;
+        // letter-spacing: 1px;
+    }
+}
+
+.main-page-content,
+.sidebar-area {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+@media (min-width: 992px) {
+    .main-page-content {
+        display: table-cell;
+        vertical-align: top;
+        padding-bottom: 30px;
+        padding-right: 40px;
+        width: 100%;
+    }
+
+    .sidebar-area {
+        position: relative;
+        display: table-cell;
+        vertical-align: top;
+        width: 340px;
+        padding-left: 39px;
+        border-left: 1px solid #eeeeee;
+    }
+
+    .container-main {
+        display: table;
+        table-layout: fixed;
+    }
+}

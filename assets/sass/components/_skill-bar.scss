@@ -1,0 +1,42 @@
+.patch_progress_bar {
+
+    &.wpb_content_element {
+        margin-bottom: 20px;
+    }
+
+    .progress-inner {
+        position: relative;
+        height: 12px;
+        border-radius: 1px;
+        background-color: rgba($color-black, 0.08);
+        z-index: 4;
+
+        .progress-track {
+            left: 0;
+            top: 0;
+            height: 12px;
+            background-color: $color-black;
+            z-index: 12;
+            border-radius: 1px;
+            position: absolute;
+            opacity: 1;
+        }
+    }
+
+    .skill-bar-text {
+        position: relative;
+        padding-bottom: 4px;
+        opacity: 0.5;
+        font-size: 13px;
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+        font-weight: 600;
+        
+        .skill-bar-title {
+            opacity: 1;
+        }
+        .skill-bar-value {
+            float: right;
+        }
+    }
+}

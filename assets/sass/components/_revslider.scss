@@ -1,0 +1,37 @@
+#home-banner {
+    position: relative;
+
+    .banner-logo {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 4;
+        color: #fff;
+        margin-top: 20px;
+        max-height: 100px;
+        
+        @media (min-width: 1400px) {
+            margin-top: 30px;
+            max-height: 200px;
+        }
+    
+        @media (min-width: 992px) {
+            margin-top: 30px;
+            max-height: 140px;
+        }
+    }
+        
+}
+
+.hesperiden.tp-bullets .tp-bullet {
+    width: 10px !important;
+    height: 10px !important;
+    background: none !important;
+    border: 1px solid rgba(255,255,255,0.6);
+    margin: 0 6px;
+
+    &.selected {
+        border-color: #fff;
+        background: #fff !important;
+    }
+}

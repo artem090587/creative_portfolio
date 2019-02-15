@@ -1,0 +1,42 @@
+.search-page-top {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eeeeee;
+
+    .search-counting {
+        text-align: right;
+        color: #aaaaaa;
+    }
+}
+
+.list-post {
+    margin: 0;
+    padding: 30px 0;
+    border-top: 1px solid #eee;
+
+    &:first-of-type {
+        border-top: none;
+    }
+    
+    .entry-title {
+        margin: 0 0 5px;
+    }
+
+    .entry-link {
+        display: inline-block;
+        font-size: 12px;
+        margin-top: 10px;
+        color: #aaaaaa;
+    }
+
+    .entry-content {
+        margin-top: 10px;
+        p {
+            margin-bottom: 10px;
+        }
+    }
+
+    .entry-meta {
+        font-size: 12px;
+    }
+}

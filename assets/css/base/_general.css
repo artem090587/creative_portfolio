@@ -1,0 +1,37 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 93.75%; }
+
+body {
+  overflow-x: hidden;
+  font-size: 15px;
+  color: #3e3e3e;
+  text-rendering: optimizeLegibility;
+  background: url(../images/bodybg-pattern.jpg); }
+
+a {
+  text-decoration: none;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out; }
+  a:hover {
+    color: inherit; }
+
+p {
+  font-size: inherit;
+  line-height: 1.75;
+  margin-bottom: 1rem;
+  text-rendering: optimizeLegibility; }
+
+img, iframe, video {
+  max-width: 100%; }
+
+img {
+  height: auto; }
+
+.row.no-padding {
+  margin-left: 0;
+  margin-right: 0; }

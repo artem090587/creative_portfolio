@@ -1,0 +1,343 @@
+
+/* Blog Post Layout */
+.post-item {
+    position: relative;
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+
+    &.sticky {
+        .post-content {
+            .post-title {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    &.post-masonry {
+        margin: 0;
+    }
+
+    .post-masonry-inner {
+        margin-bottom: 30px;
+    }
+
+    .single & {
+        margin-bottom: 30px;
+    }
+
+    // Post Header
+    .post-header {
+        text-align: center;
+        margin-bottom: 25px;
+
+        .post-title {
+            font-size: 30px;
+            text-transform: none;
+            margin: 0 0 20px;
+        }
+    }
+
+    // Post Thumbnail
+    .post-thumbnail {
+        position: relative;
+        margin-bottom: 30px;
+        overflow: hidden;
+
+        img {
+            width: 100%;
+        }
+
+        > a {
+            display: block;
+        }
+
+        .post-image-inner {
+            position: relative;
+            display: block;
+        }
+
+        a:hover {
+            opacity: 0.8;
+        }
+    }
+
+    // Post Meta
+    .post-meta-list {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        
+        .post-meta-item {
+            font-size: 14px;
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 20px;
+        }
+    }
+
+    .post-meta-item {
+        color: $color-medium-grey;
+
+        a {
+            color: $color-medium-grey;
+        }
+    }
+
+    .post-meta-category {
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        margin: 0;
+        z-index: 4;
+        color: #fff;
+        line-height: 1;
+        display: flex;
+        flex-flow: column nowrap;
+        align-items: flex-start;
+
+        a {
+            display: inline-block;
+            padding: 4px 8px;
+            line-height: 22px;
+            margin: 0 0 2px;
+            border-radius: 2px;
+            text-decoration: none;
+            box-shadow: 0 0 0 2px transparent, 0 1px 2px rgba(0,0,0,0.1) inset;
+            background-color: rgba(0,0,0,.1);
+            color: #fff;   
+
+            &:hover {
+                color: #fff;
+            }
+        }
+    }
+
+    .post-author-avatar {
+        margin-right: 6px !important;
+        span {
+            vertical-align: middle;
+            margin-right: 6px;
+        }
+        img {
+            width: 30px;
+            height: 30px;
+            border-radius: 40px;
+            overflow: hidden;
+        }
+    }
+
+    .post-meta-date {
+        margin: 0;
+    }
+
+    .post-meta-comments {
+        span {
+            position: relative;
+            vertical-align: middle;
+            font-size: 14px;
+        }
+        .comment-number {
+            font-family: 'Open Sans', sans-serif;
+            position: absolute;
+            display: inline-block;
+            width: 17px;
+            line-height: 17px;
+            font-size: 10px;
+            font-weight: 700;
+            border-radius: 99px;
+            text-align: center;
+            color: #fff;
+            background-color: $color-black;
+            top: -9px;
+            right: -10px;
+        }
+    }
+
+    // Post Content
+    .post-content {
+        padding: 0 40px;
+        margin: 0 30px 0;
+
+        .single-post & {
+            text-align: left;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto!important;
+        }
+
+        table {
+            width: 100%;
+        }
+
+        ul {
+            list-style: initial;
+        }
+
+        &:after,
+        &:before {
+            content: " ";
+            display: table;
+        }
+
+        &:after {
+            clear: both;
+        }
+    }
+
+    // Post Share
+    .post-share {
+        text-align: center;
+        position: relative;
+        margin-top: 30px;
+        line-height: 54px;
+        border-top: 1px solid #efefef;
+        border-bottom: 4px double #efefef;
+
+        span {
+            color: $color-light-grey;
+            font-style: italic;
+            margin-right: 5px;
+        }
+
+        .social-share-links {
+            position: relative;
+            z-index: 10;
+            display: inline-block;
+            font-size: 14px;
+            line-height: 1.6;
+            background-color: #fff;
+            padding-right: 16px;
+            padding-left: 16px;
+
+            a {
+                color: $color-black;
+                margin: 0 8px;
+            }
+        }
+    }
+}
+
+// Author Biography
+.author-bio {
+    overflow: hidden;
+}
+
+.author-bio-avatar {
+    float: left;
+    margin-right: 24px;
+    img {
+        border-radius: 50%;
+    }
+}
+
+.author-bio-content {
+    overflow: hidden;
+}
+
+.author-bio-name {
+    margin: 0 0 15px;
+}
+
+.author-bio-text {
+    margin-bottom: 10px;
+}   
+
+.author-bio-social-link {
+    font-size: 14px;
+    color: $color-light-grey;
+    margin-right: 8px;
+}
+
+.read-more {
+    margin: 30px 0 10px;
+}
+
+
+/* Related Posts */
+.related-posts {
+    
+}
+
+.related-posts-title {
+    display: inline-block;
+    margin: 0 0 30px;
+}
+
+.related-post-thumbnail {
+    display: block;
+    margin-bottom: 14px;
+    overflow: hidden;
+    
+    img {
+        width: 100%;
+    }
+}
+
+.related-post-title {
+    font-size: inherit;
+    margin: 20px 0 0;
+    text-transform: none;
+}
+
+.related-post-date {
+    font-size: 14px;
+    color: $color-light-grey;
+}
+
+.related-posts,
+.author-bio,
+.comments,
+.comment-respond {
+    margin: 50px 0;
+    max-width: 940px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+
+/* Blog Masonry Style */
+.post-masonry {
+    
+    .post-thumbnail {
+        margin-bottom: 0;
+        overflow: hidden;
+    }
+
+    .post-meta-item {
+        color: #999;
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+
+        a {
+            color: #000;
+            &:hover {
+                color: #999;
+            }
+        }
+    }
+    
+    .post-masonry-content {
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, 0.07);
+        border-top: 0;
+        padding: 30px;
+
+        .post-masonry-title {
+            line-height: 1.3;
+            margin: 10px 0 15px;
+            text-transform: none;
+        }
+
+        p {
+            color: #666;
+            position: relative;
+            margin-bottom: 16px;
+        }
+    }
+    
+}

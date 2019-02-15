@@ -1,0 +1,30 @@
+.patch_milestone {
+    padding: 20px 0;
+
+    .milestone-subject {
+        font-size: 120%;
+    }
+
+    .milestone-number {
+        display: inline-block;
+        position: relative;
+        font-size: 36px;
+        line-height: 1;
+        padding-bottom: 12px;
+        font-weight: 700;
+
+        .milestone-suffix {
+            display: inline-block;
+        }
+
+        .milestone-number-inner,
+        .milestone-suffix {
+            display: inline-block;
+        }
+
+        @media (min-width: 768px) {
+            font-size: 55px;
+        }
+    }
+}
+

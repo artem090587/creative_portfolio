@@ -1,0 +1,51 @@
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 93.75%;
+}
+
+body {
+    overflow-x: hidden;
+    font-size: 15px;
+    color: #3e3e3e;
+    // background-color: $color-light-fill;
+    text-rendering: optimizeLegibility;
+    background: url(../images/bodybg-pattern.jpg);
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+a {
+    // font-weight: 400;
+    text-decoration: none;
+    backface-visibility: hidden;
+    transition: all 0.3s ease-out;
+
+    &:hover {
+        color: inherit;
+    }
+}
+
+p {
+    font-size: inherit;
+    line-height: 1.75;
+    margin-bottom: 1rem;
+    text-rendering: optimizeLegibility;
+}
+
+img, iframe, video {
+    max-width: 100%;
+}
+
+img {
+    height: auto;
+}
+
+.row {
+
+    &.no-padding {
+        margin-left: 0;
+        margin-right: 0;   
+    }
+}
+
