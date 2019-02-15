@@ -2,7 +2,7 @@
 
 <p>Onliest is a professional WordPress portfolio theme created for agencies or individuals that just want to build their sites very easly. It has a unique design based on beautiful bold typography which will make your website look good, there is also a set of handy features like One-click demo import, built-in translation, setup guide, custom widgets and many more.</p>
 
-![Alt text](screenshot.jpg)
+![Alt text](screenshot.png)
 
 ## Get started in no-time
 
